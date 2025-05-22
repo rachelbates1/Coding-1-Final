@@ -1,3 +1,3 @@
 # Coding-1-Final
  These are the starter files for F2021 Coding 1 Final
-My website is a small insight of what my favorite animals are. I love 
+My website is a small insight of what my favorite animals are. On this website you will find information on what each animal is about. The home page has three links that each are connected to thoughtful,informational, and educational Wikipedia pages. I made the website easy to navigate so anyone that uses the website will have a simple and easy time getting to know me better. The contact page contains the information to find me and the about page is a simple way to be introduced to what you will find. I hope you enjoy the website and learn things abot me that you did not know before! 
